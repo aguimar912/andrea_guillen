@@ -1,4 +1,4 @@
-public class Principal {
+public class Principal { 
     public static void main(String[] args) {
             Persona persona1=new Persona("José Roberto", "Jiménez", "Hernández", 'H', 20, "Av. El aguacate #41");
             Persona persona2=new Persona("Mayra", "Espinosa", "Sánchez", 'M', 17, "Fracc. La noche es larga #221");
